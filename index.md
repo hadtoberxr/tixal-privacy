@@ -1,6 +1,6 @@
 # Privacy Policy — Tixal
 
-**Last updated:** [DATE]
+**Last updated:** 2026, 13/09/26
 
 Tixal is a private Discord bot that provides ticket support, staff management, and Roblox rank verification for the communities that invite it. This policy explains what data Tixal stores, why, and how it can be removed.
 
@@ -76,5 +76,5 @@ This policy may be updated. The date at the top of this page reflects the last r
 
 For questions, data access requests, or deletion requests, contact:
 
-[YOUR CONTACT EMAIL]
-[YOUR DISCORD TAG OR SUPPORT SERVER INVITE]
+hadtoberxr@gmail.com
+https://discord.com/invite/vEcVsGmmBn
